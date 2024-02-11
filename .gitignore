@@ -1,0 +1,16 @@
+__info.txt
+
+# CP Extension generated file
+**/*cph
+
+# Executable File
+**/*.exe
+
+# TestCaseFile
+**/*__tests
+
+# Temporary Files made for testing ignore if i forgor to delete 💀
+**/del.cpp
+
+# Secret Maybe, Maybe not φ(*￣0￣)
+**/Charmi.cpp
