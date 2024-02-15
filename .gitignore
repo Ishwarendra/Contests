@@ -5,12 +5,17 @@ __info.txt
 
 # Executable File
 **/*.exe
+**/*.out
 
 # TestCaseFile
 **/*__tests
 
 # Temporary Files made for testing ignore if i forgor to delete 💀
 **/del.cpp
+
+# Stress testers
+**/*__good.cpp
+**/*__generator.cpp
 
 # Secret Maybe, Maybe not φ(*￣0￣)
 **/Charmi.cpp
